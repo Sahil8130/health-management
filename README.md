@@ -89,3 +89,74 @@ _This project demonstrates a comprehensive hospital management solution, support
 <img src="frontend/src/readme_images/doctorProfile.png" alt="Doctor Profile" style="padding:0 10px;"/>
 
 ### Thank You for Visiting 🎊 🎉 🙏
+# Doctor Management System
+
+A modern web application for managing doctors, patients, and appointments. Built with React (Vite), Node.js, Express, and MongoDB.
+
+## Live Demo
+
+[Live Link (sahil)](https://hms-frontend.vercel.app)
+
+## Features
+- Admin and Doctor dashboards
+- Patient management
+- Appointment scheduling
+- Authentication and authorization
+- Responsive UI with Tailwind CSS
+- Cloudinary integration for image uploads
+
+## Tech Stack
+- **Frontend:** React, Vite, Tailwind CSS
+- **Backend:** Node.js, Express, MongoDB
+- **Image Uploads:** Cloudinary
+- **Deployment:** Vercel
+
+## Getting Started
+
+### Prerequisites
+- Node.js
+- npm
+- MongoDB Atlas account
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/sahil-saroj/hms.git
+   ```
+2. Install dependencies for frontend, admin, and backend:
+   ```sh
+   cd doctor-management/frontend
+   npm install
+   cd ../admin
+   npm install
+   cd ../backend
+   npm install
+   ```
+3. Set up environment variables for backend (see `backend/config/mongodb.js`).
+4. Start the backend server:
+   ```sh
+   npm start
+   ```
+5. Start the frontend and admin apps:
+   ```sh
+   cd ../frontend
+   npm run dev
+   cd ../admin
+   npm run dev
+   ```
+
+## Folder Structure
+```
+doctor-management/
+  admin/
+  backend/
+  frontend/
+```
+
+## Author
+**Sahil Saroj**
+
+---
+
+For any queries, contact [Sahil Saroj](mailto:sahil.saroj@example.com).

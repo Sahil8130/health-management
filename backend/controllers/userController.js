@@ -1,3 +1,4 @@
+// author: sahil saroj
 import validator from "validator";
 import bcrypt from "bcrypt";
 import userModel from "../model/userModel.js";
