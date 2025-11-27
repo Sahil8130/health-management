@@ -6,8 +6,8 @@ Built with passion , MediConnect Pro is a cutting-edge healthcare platform that 
 
 ## 🌟 Experience It Live
 
-👉 [https://sahil-frontend-kappa.vercel.app](https://hms-frontend-kappa.vercel.app/)  
-🔐 [https://sahil-nine.vercel.app/](https://hms-admin-nine.vercel.app/)
+👉 [https://sahil-frontend-kappa.vercel.app](https://prescripto.vercel.app/doctors/Dermatologist)  
+🔐 [https://sahil-nine.vercel.app/](https://prescripto.vercel.app/doctors/Dermatologist)
 
 ## 💫 Key Innovations
 
